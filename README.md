@@ -1,4 +1,6 @@
-### Hi there, I`m Ivan Kozyrev - Data Scientist
+### Hi there, I`m Ivan Kozyrev
+
+### I`m Data Scientist/Data Analyst
 
 ### Connect with me:
 <p align="left">
@@ -9,7 +11,7 @@
     <img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
-Почта - kozyreviva@gmail.com 
+GMail - kozyreviva@gmail.com 
 
 ### Languages and Tools:
 <p align="left">
