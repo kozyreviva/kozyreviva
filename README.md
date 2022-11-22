@@ -1,7 +1,19 @@
 ### Hi there, I`m Ivan Kozyrev - Data Scientist
 
 ### Connect with me:
+<p align="left">
+  <a href="#">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
+  </a>    <a href="#">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
+  </a>    <a href="#">
+    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
 
 ### Languages and Tools:
 <p align="left">
