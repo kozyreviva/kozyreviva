@@ -6,27 +6,27 @@
 ### Languages and Tools:
 <p align="left">
   <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/ocker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
   
   <a href="#">
-    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a> 
 
   <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
