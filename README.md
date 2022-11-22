@@ -2,9 +2,6 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="kozyreviva@gmail.com">
-    <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
   </a>    <a href="https://wa.me/qr/3JYEO6UO3MMVJ1">
     <img src="svg/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -12,6 +9,7 @@
     <img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+Почта - kozyreviva@gmail.com 
 
 ### Languages and Tools:
 <p align="left">
