@@ -18,7 +18,7 @@
   </a>  
 
   <a href="#">
-    <img src="svg/ocker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
   
   <a href="#">
