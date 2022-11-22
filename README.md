@@ -1,6 +1,6 @@
 ### Hi there, I`m Ivan Kozyrev
 
-### I`m Data Scientist/Data Analyst
+## I`m Data Scientist/Data Analyst
 
 ### Connect with me:
 <p align="left">
