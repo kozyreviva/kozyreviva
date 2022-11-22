@@ -8,9 +8,9 @@
   </a>    <a href="#">
     <img src="svg/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>  
-  [</a>    <a href="#">
+  </a>    <a href="https://t.me/IvanKzrv">
     <img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>][telegram]
+  </a>
 </p>
 
 ### Languages and Tools:
@@ -40,6 +40,3 @@
   </a> 
 </p>
 
----
-
-[telegram]: https://t.me/IvanKzrv
