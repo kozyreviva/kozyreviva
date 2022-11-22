@@ -2,10 +2,10 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="#">
+  <a href="kozyreviva@gmail.com">
     <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
-  </a>    <a href="#">
+  </a>    <a href="https://wa.me/qr/3JYEO6UO3MMVJ1">
     <img src="svg/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>  
   </a>    <a href="https://t.me/IvanKzrv">
