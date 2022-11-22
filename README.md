@@ -1,20 +1,32 @@
 ### Hi there, I`m Ivan Kozyrev - Data Scientist
 
-## Connect with me:
+### Connect with me:
 
-GMail
 
-<!--
-**kozyreviva/kozyreviva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+<a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+<a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
-Here are some ideas to get you started:
+<a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+
